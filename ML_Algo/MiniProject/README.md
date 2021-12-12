@@ -38,12 +38,10 @@ The dataset contains different chemical information about wine. It has 1600 inst
 
 ![](./Results.jpeg)
 
-> Presntation Link : [Click Here](https://docs.google.com/presentation/d/1HPokI8aAs1ntUwofjAbzkyw99P-W5g_33PK_SmDbpto/edit?usp=sharing)
+> Presentation Link : [Click Here](https://docs.google.com/presentation/d/1HPokI8aAs1ntUwofjAbzkyw99P-W5g_33PK_SmDbpto/edit?usp=sharing)
 
 > Dataset : [Click Here](./winequality-red.csv)
 
 > Notebook : [Click Here](./Machine_Learning_Project.ipynb)
 
 > Kaggle : [Click Here](https://www.kaggle.com/gudivaraprasad/wine-quality-prediction-ml-project)
-> 
-> 
